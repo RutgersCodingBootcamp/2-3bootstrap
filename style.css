@@ -1,11 +1,11 @@
 
 header, nav, section, aside, footer {
 	padding: 10px;
-	border: 1px solid green;
+	/*border: 1px solid green;*/
 }
 
 header {
-	background-color: red;
+	/*background-color: red;*/
   padding-bottom: 50px;
   padding-right: 75px;
 }
@@ -20,7 +20,7 @@ header {
 
 }
 
-.col-md-8 {
+.header-links {
   padding-top: 30px;
   text-align: right;
 }
@@ -30,15 +30,29 @@ header {
 }
 
 nav {
-	background-color: orange;
+	/*background-color: orange;*/
 }
 
 section {
-	background-color: yellow;
+	/*background-color: yellow;*/
+	text-align: center;
+}
+
+.external-btns button {
+  margin: 10px;
+}
+
+.panel-form {
+	padding: 10px;
+  text-align: left;
+}
+
+.sign-up {
+  text-align: center;
 }
 
 aside {
-	background-color: green;
+	/*background-color: green;*/
 }
 
 footer {
